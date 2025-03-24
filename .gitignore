@@ -1,0 +1,23 @@
+# Python-specific ignores
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.env
+*.venv
+env/
+venv/
+ENV/
+.venv/
+.ENV/
+.Python
+build/
+dist/
+*.egg-info/
+*.egg
+
+# IDE-specific ignores
+.vscode/
+.idea/
+*.swp
+.DS_Store
